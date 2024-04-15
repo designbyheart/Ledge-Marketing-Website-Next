@@ -30,7 +30,7 @@ const Hero = (props) => {
             </span>
           </span>
           <span className="hero-text4">
-            <span>Build up your user base1</span>
+            <span>Build up your user base</span>
           </span>
           <img
             alt="image1675789"
