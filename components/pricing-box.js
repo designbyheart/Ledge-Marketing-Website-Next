@@ -6,8 +6,8 @@ const PricingBox = (props) => {
       <div className="pricing-box-container">
         <div className="pricing-box-frame715304852">
           <img
-            src="/external/rectangle11425801-uodg-500w.png"
             alt="Rectangle11425801"
+            src="/external/rectangle11425801-uodg-500w.png"
             className="pricing-box-rectangle1142"
           />
           <span className="pricing-box-text">
@@ -39,13 +39,13 @@ const PricingBox = (props) => {
                   </span>
                   <div className="pricing-box-group902">
                     <img
-                      src="/external/ellipse2035863-h7e-200h.png"
                       alt="Ellipse2035863"
+                      src="/external/ellipse2035863-h7e-200h.png"
                       className="pricing-box-ellipse203"
                     />
                     <img
-                      src="/external/vector5863-aa2q.svg"
                       alt="Vector5863"
+                      src="/external/vector5863-aa2q.svg"
                       className="pricing-box-vector"
                     />
                   </div>
@@ -58,13 +58,13 @@ const PricingBox = (props) => {
                   </span>
                   <div className="pricing-box-group9021">
                     <img
-                      src="/external/ellipse2035863-qyc9-200h.png"
                       alt="Ellipse2035863"
+                      src="/external/ellipse2035863-qyc9-200h.png"
                       className="pricing-box-ellipse2031"
                     />
                     <img
-                      src="/external/vector5863-xdlh.svg"
                       alt="Vector5863"
+                      src="/external/vector5863-xdlh.svg"
                       className="pricing-box-vector1"
                     />
                   </div>
@@ -77,13 +77,13 @@ const PricingBox = (props) => {
                   </span>
                   <div className="pricing-box-group9022">
                     <img
-                      src="/external/ellipse2035863-fzqt-200h.png"
                       alt="Ellipse2035863"
+                      src="/external/ellipse2035863-fzqt-200h.png"
                       className="pricing-box-ellipse2032"
                     />
                     <img
-                      src="/external/vector5863-hf.svg"
                       alt="Vector5863"
+                      src="/external/vector5863-hf.svg"
                       className="pricing-box-vector2"
                     />
                   </div>
@@ -95,8 +95,8 @@ const PricingBox = (props) => {
             <span>Small studios with 5,000 or less users</span>
           </span>
           <img
-            src="/external/line785899-xd.svg"
             alt="Line785899"
+            src="/external/line785899-xd.svg"
             className="pricing-box-line78"
           />
         </div>
